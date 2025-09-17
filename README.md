@@ -7,7 +7,8 @@ requirements:
 
 How to use:
 > Extract and open folder via Visual studio code.
-> open PS Shell and type this command.
->> "node server.js".
-> use the above command to start the Api.
-> enter the url in any browser as http://localhost:3000.
+> Open PS Shell and type this command.
+> "node server.js".
+> Use the above command to start the Api.
+> After the Api starts.
+> Enter the url in any browser as http://localhost:3000.
